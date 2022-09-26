@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Напишите программу замены элементов массива: положительные элементы заените на соответствующие отрицательные и наоборот.
+
+
